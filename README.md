@@ -1,4 +1,4 @@
-# C# CaptureSDK Version 1.7.68.40 Windows, Android and iOS Support
+# C# CaptureSDK Version 1.7.83.246 Windows, Android and iOS Support
 
 The C# CaptureSDK is [available publicly on nuget.org here](https://www.nuget.org/packages/SocketMobile.Capture)
 
@@ -22,7 +22,7 @@ For instance, the D600 is not supported by Windows Companion.
 
 Socket Mobile is a leading innovator of data capture and delivery solutions for enhanced productivity.
 
-CaptureSDK is the easiest solution for adding barcode scanning capability to a Windows application.
+CaptureSDK is the easiest solution for adding barcode scanning capability to a Windows, Android or iOS application.
 
 The Socket Mobile barcode scanner is an ergonomic, fast and accurate solution to a variety of data entry scenarios.
 
