@@ -36,7 +36,13 @@ This file tracks released versions of the C# CaptureSDK.
 - Fixed SocketCam's stability on Windows (UWP)
   - Camera switch
   - No Camera detected
-  - USB Cameara support, check [documentation](https://docs.socketmobile.dev/capture/csharp/en/latest/topicsSocketCam.html) under SocketCam->Setup->Windows (UWP)->Note
+  - USB Camera support, check [documentation](https://docs.socketmobile.dev/capture/csharp/en/latest/topicsSocketCam.html) under SocketCam->Setup->Windows (UWP)->Note
 - Updated Native iOS CaptureSDK from version 1.9.133 to version 1.9.139
   - We have updated SwiftDecoder to 6.2.3 that fixes the [signature error](https://github.com/SocketMobile/swift-package-capturesdk/issues/28)
 - Added the NFC Tag ID, `TagIdData`, in the `CaptureDecodedData` received from the `DecodedData` event (available on iOS and Windows)
+
+## Version 1.7.112.395
+
+- Updated NuGet package released on [nuget.org](https://www.nuget.org/packages/SocketMobile.Capture)
+- Added SocketCam C820 support to MAUI
+- Fixed symbology availability across different camera usages. Symbologies are now consistent across all devices

@@ -1,4 +1,4 @@
-# C# CaptureSDK Version 1.7.83.246 Windows, Android and iOS Support
+# C# CaptureSDK Version 1.7.112.395 Windows, Android and iOS Support
 
 The C# CaptureSDK is [available publicly on nuget.org here](https://www.nuget.org/packages/SocketMobile.Capture)
 
@@ -8,7 +8,7 @@ The C# CaptureSDK is [available publicly on nuget.org here](https://www.nuget.or
 | :--------------------------------------------: | :----: | :-: | :-: | :-: | :-: | :-: |
 |                    **S320**                    |   ❌   | ❌  | ❌ | ✅ | ✅  | ✅ |
 |                 **M930/M940**                  |   ❌   | ❌  | ❌ | ✅ | ✅  | ✅ |
-|         **SocketCam C820 (Windows[UWP])**      |   ❌   | ❌  | ❌ | ❌ | ❌  | ✅ |
+|    **SocketCam C820 (Windows[UWP/MAUI-Net6])** |   ❌   | ❌  | ❌ | ❌ | ❌  | ✅ |
 |          **SocketCam C860 (Android-iOS)**      |   ❌   | ❌  | ❌ | ✅ | ✅  | ✅ |
 |          **SocketCam C820 (Android-iOS)**      |   ❌   | ❌  | ✅ | ✅ | ✅  | ✅ |
 |               **S720/D720/S820**               |   ❌   | ✅  | ✅ | ✅ | ✅  | ✅ |
