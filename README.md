@@ -1,22 +1,23 @@
-# C# CaptureSDK Version 2.0.33.469 Windows, Android and iOS Support
+# C# CaptureSDK Version 2.1.1.157  Windows, Android and iOS Support
 
 The C# CaptureSDK is [available publicly on nuget.org here](https://www.nuget.org/packages/SocketMobile.Capture)
 
 ## Devices Compatibility and CaptureSDK Versions
 
-|                    Devices                     | <= 1.2 | 1.3 | 1.4 | 1.5 | 1.6 | 1.7 | 1.8 | 2.0 |
-| :--------------------------------------------: | :----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|                    **S320**                    |   ❌   | ❌  | ❌ | ✅ | ✅  | ✅ | ✅ | ✅ |
-|                 **M930/M940**                  |   ❌   | ❌  | ❌ | ✅ | ✅  | ✅ | ✅ | ✅ |
-|    **SocketCam C820 (Windows[UWP/MAUI-Net9])** |   ❌   | ❌  | ❌ | ❌ | ❌  | ✅ | ✅ | ✅ |
-|          **SocketCam C860 (Android-iOS)**      |   ❌   | ❌  | ❌ | ✅ | ✅  | ✅ | ✅ | ✅ |
-|          **SocketCam C820 (Android-iOS)**      |   ❌   | ❌  | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ |
-|               **S720/D720/S820**               |   ❌   | ✅  | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ |
-|             **D600 (Android-iOS)**             |   ✅   | ✅  | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ |
-|    **S550, and all older barcode scanners**    |   ✅   | ✅  | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ |
-|                    **S370**                    |   ❌   | ❌  | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ |
-|                    **M963**                    |   ❌   | ❌  | ❌ | ❌ | ❌  | ✅ | ✅ | ✅ |
-|                    **S721**                    |   ❌   | ❌  | ❌ | ❌ | ❌  | ❌ | ✅ | ✅ |
+|                    Devices                     | <= 1.2 | 1.3 | 1.4 | 1.5 | 1.6 | 1.7 | 1.8 | 2.0 | 2.1 |
+| :--------------------------------------------: | :----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|                    **S320**                    |   ❌   | ❌  | ❌ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ |
+|                 **M930/M940**                  |   ❌   | ❌  | ❌ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ |
+|    **SocketCam C820 (Windows[UWP/MAUI-Net9])** |   ❌   | ❌  | ❌ | ❌ | ❌  | ✅ | ✅ | ✅ | ✅ |
+|          **SocketCam C860 (Android-iOS)**      |   ❌   | ❌  | ❌ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ |
+|          **SocketCam C820 (Android-iOS)**      |   ❌   | ❌  | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ |
+|               **S720/D720/S820**               |   ❌   | ✅  | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ |
+|             **D600 (Android-iOS)**             |   ✅   | ✅  | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ |
+|    **S550, and all older barcode scanners**    |   ✅   | ✅  | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ |
+|                    **S370**                    |   ❌   | ❌  | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ |
+|                    **M963**                    |   ❌   | ❌  | ❌ | ❌ | ❌  | ✅ | ✅ | ✅ | ✅ |
+|                    **S721**                    |   ❌   | ❌  | ❌ | ❌ | ❌  | ❌ | ✅ | ✅ | ✅ |
+|    **SM Link and Magic Dock (iOS-Windows)**    |   ❌   | ❌  | ❌ | ❌ | ❌  | ❌ | ❌ | ❌ | ✅ |
 
 Note: Bluetooth LE devices (such as the D600, S550, S320 and S370) support also relies on the Companion version for Windows and Android.
 For instance, the D600 is not supported by Windows Companion.

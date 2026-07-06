@@ -2,6 +2,25 @@
 
 This file tracks released versions of the C# CaptureSDK.
 
+## Version 2.1.1.157
+
+### New
+
+  * Added support for SM Link and Magic Dock on Windows (Check Windows Companion compatibility) and on iOS. Android is on its way.
+
+
+
+### Improvements
+
+  * N/A
+
+
+### Bug fixes
+
+  * Fixed iOS transitive NuGet package target inclusion
+
+
+
 ## Version 2.0.33.469
 
 ### New
