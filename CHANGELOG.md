@@ -2,6 +2,27 @@
 
 This file tracks released versions of the C# CaptureSDK.
 
+## Version 2.1.5.320
+
+### New
+
+  * Added SetDeviceSpecific in CaptureHelper to send a raw command to a device
+
+
+
+### Improvements
+
+  * N/A
+
+
+### Bug fixes
+
+  * Fixed Classic Bluetooth Picker not called upon sending addDevice property (+kBluetoothClassic)
+
+  * Fixed battery level percentage now correctly rounded to integer
+
+
+
 ## Version 2.1.1.157
 
 ### New

@@ -1,4 +1,4 @@
-# C# CaptureSDK Version 2.1.1.157  Windows, Android and iOS Support
+# C# CaptureSDK Version 2.1.5.320  Windows, Android and iOS Support
 
 The C# CaptureSDK is [available publicly on nuget.org here](https://www.nuget.org/packages/SocketMobile.Capture)
 
