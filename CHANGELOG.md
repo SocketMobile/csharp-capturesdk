@@ -2,6 +2,24 @@
 
 This file tracks released versions of the C# CaptureSDK.
 
+## Version 2.1.6.410
+
+### New
+
+  * N/A
+
+
+### Improvements
+
+  * N/A
+
+
+### Bug fixes
+
+  * Fixed the crash linked to an ArgumentNullException reported on https://github.com/SocketMobile/csharp-capturesdk/issues/10
+
+
+
 ## Version 2.1.5.320
 
 ### New
