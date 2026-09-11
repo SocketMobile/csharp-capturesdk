@@ -2,6 +2,23 @@
 
 This file tracks released versions of the C# CaptureSDK.
 
+## Version 2.1.11.875
+
+### New
+
+  * N/A
+
+
+### Improvements
+
+  * Updated Android Native SDK to version 2.1.2 that supports SM Link and Magic Dock devices
+
+
+### Bug fixes
+
+  * N/A
+
+
 ## Version 2.1.6.410
 
 ### New

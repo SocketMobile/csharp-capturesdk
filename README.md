@@ -1,4 +1,4 @@
-# C# CaptureSDK Version 2.1.6.410  Windows, Android and iOS Support
+# C# CaptureSDK Version 2.1.11.875  Windows, Android and iOS Support
 
 The C# CaptureSDK is [available publicly on nuget.org here](https://www.nuget.org/packages/SocketMobile.Capture)
 
@@ -17,7 +17,7 @@ The C# CaptureSDK is [available publicly on nuget.org here](https://www.nuget.or
 |                    **S370**                    |   ❌   | ❌  | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ |
 |                    **M963**                    |   ❌   | ❌  | ❌ | ❌ | ❌  | ✅ | ✅ | ✅ | ✅ |
 |                    **S721**                    |   ❌   | ❌  | ❌ | ❌ | ❌  | ❌ | ✅ | ✅ | ✅ |
-|    **SM Link and Magic Dock (iOS-Windows)**    |   ❌   | ❌  | ❌ | ❌ | ❌  | ❌ | ❌ | ❌ | ✅ |
+|           **SM Link and Magic Dock**           |   ❌   | ❌  | ❌ | ❌ | ❌  | ❌ | ❌ | ❌ | ✅ |
 
 Note: Bluetooth LE devices (such as the D600, S550, S320 and S370) support also relies on the Companion version for Windows and Android.
 For instance, the D600 is not supported by Windows Companion.
