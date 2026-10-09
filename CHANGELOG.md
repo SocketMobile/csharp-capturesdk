@@ -2,6 +2,25 @@
 
 This file tracks released versions of the C# CaptureSDK.
 
+## Version 2.1.20.64
+
+### New
+
+  * Added option to define the Windows Classic Bluetooth Picker's placement via CaptueHelper's AddBluetoothDeviceAsync method
+
+
+
+### Improvements
+
+  * Updated Windows Classic Bluetooth Picker to center the popup
+
+
+
+### Bug fixes
+
+  * N/A
+
+
 ## Version 2.1.11.875
 
 ### New
